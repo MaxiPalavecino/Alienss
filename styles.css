@@ -1,0 +1,22 @@
+.Avatar {
+  text-align: center;
+}
+
+ body{
+   background-image: url(https://t3.ftcdn.net/jpg/02/80/52/58/360_F_280525876_lPTbUBpXsWpiUkvJEIGsEtw9pCbSjiHL.jpg);
+} 
+
+h1{
+  text-align: left;
+  color: #D9DACF;
+}
+
+h2{
+    color: #D9DACF;
+}
+.Avatar{
+  float:left;
+}
+.texto{
+  flex-direction:column;
+}
